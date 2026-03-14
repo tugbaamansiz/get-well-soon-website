@@ -11,3 +11,7 @@ A small interactive "get well soon" surprise website made for a friend.
 - HTML
 - CSS
 - JavaScript
+
+## Preview
+
+![Website Screenshot](screenshot.png) 
