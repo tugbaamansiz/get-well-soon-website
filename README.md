@@ -1,10 +1,10 @@
-## Live Demo
-
-👉 [View Website](https://tugbaamansiz.github.io/get-well-soon-website/)
-
 # Get Well Soon Website 💗
 
 A small interactive "get well soon" surprise website made for a friend.
+
+## Live Demo
+
+👉 [View Website](https://tugbaamansiz.github.io/get-well-soon-website/)
 
 ## Features
 - Interactive buttons
